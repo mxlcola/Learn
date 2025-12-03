@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20251201143453728
 difficulty: 4.93
-due: 20251202011044350
-elapsed_days: 0
+due: 20251206000133089
+elapsed_days: 0.9588974421296297
 lapses: 0
-last_review: 20251202010044350
-modified: 20251202010043985
-reps: 1
-scheduled_days: 0
+last_review: 20251203000133089
+modified: 20251203000132740
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
-tags: 大A本质是什么？ 散户 ? 杠杆交易
+state: 2
+tags: 大A本质是什么？ 散户 ? 杠杆交易 机构 游资
 title: 散户生存哲学
 type: text/markdown
