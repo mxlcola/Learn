@@ -1,16 +1,20 @@
 annotate-colour: dodgerblue
 created: 20251124100050527
-difficulty: 3.9899999999999998
-due: 20251209132504104
-elapsed_days: 0
+difficulty: 3.148
+due: 20260214021646516
+elapsed_days: 9.535907546296297
 lapses: 0
-last_review: 20251203132504104
-modified: 20251203001553902
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20251213021646516
+modified: 20251213021633409
+reps: 2
+scheduled_days: 63
+stability: 63.32644889281853
 state: 2
 tags: 热点退潮 龙头股 ?
 title: 热点退潮期何时需要空仓？
+
+关联:
+
+[[热点退潮]]
 
 当龙头第一次大阴或[[缩量]]不涨时。

@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20251201114847166
-difficulty: 3.9899999999999998
-due: 20251209000155914
-elapsed_days: 0
+difficulty: 3.9994
+due: 20260111021324209
+elapsed_days: 10.091299756944444
 lapses: 0
-last_review: 20251203000155914
+last_review: 20251213021324209
 modified: 20251201120524455
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 29
+stability: 29.00061665635496
 state: 2
 tags: 量化交易 ? 割韭菜
 title: 量化和散户-割韭菜
