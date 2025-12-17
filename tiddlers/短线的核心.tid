@@ -1,14 +1,14 @@
-annotate-colour: orange
+annotate-colour: dodgerblue
 created: 20251123005000640
-difficulty: 4.8508
-due: 20251213113356791
-elapsed_days: 8.438669224537037
+difficulty: 4.000191999999999
+due: 20260315050855633
+elapsed_days: 15.732625497685186
 lapses: 0
-last_review: 20251201113356791
+last_review: 20251217050855633
 modified: 20251123005041000
-reps: 2
-scheduled_days: 12
-stability: 11.516502507451003
+reps: 3
+scheduled_days: 88
+stability: 88.33473289997865
 state: 2
 tags: 短线票 ?
 title: 短线的核心
