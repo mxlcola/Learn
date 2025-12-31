@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20251201115238580
-difficulty: 3.9899999999999998
-due: 20251219021308228
-elapsed_days: 0
+difficulty: 3.148
+due: 20260418135832265
+elapsed_days: 18.489861539351853
 lapses: 0
-last_review: 20251213021308228
+last_review: 20251231135832265
 modified: 20251213021307882
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 108
+stability: 108.41077529143855
 state: 2
 tags: 融券 量化交易 ?
 title: 谁能融券？
