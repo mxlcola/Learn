@@ -1,14 +1,14 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20251201115801349
-difficulty: 3.9994
-due: 20260102091259854
-elapsed_days: 7.38627875
+difficulty: 3.157306
+due: 20281107065144264
+elapsed_days: 242.90190287037038
 lapses: 0
-last_review: 20251210091259854
+last_review: 20260810065144264
 modified: 20251210091259545
-reps: 2
-scheduled_days: 23
-stability: 23.23091595644907
+reps: 3
+scheduled_days: 820
+stability: 820.1898559908584
 state: 2
 tags: 量化交易 割韭菜 ?
 title: 散户能不能自己做量化？
