@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20251201115333757
-difficulty: 3.148
-due: 20260225021229497
-elapsed_days: 11.588570706018519
+difficulty: 2.31442
+due: 20290904072807742
+elapsed_days: 241.21919266203705
 lapses: 0
-last_review: 20251213021229497
+last_review: 20260811072807742
 modified: 20251213021216764
-reps: 2
-scheduled_days: 74
-stability: 74.35361171852266
+reps: 3
+scheduled_days: 1120
+stability: 1120.4000248186287
 state: 2
 tags: 量化交易 ?
 title: 为什么散户打板常被量化用融券收割？
