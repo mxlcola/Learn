@@ -1,0 +1,24 @@
+due: 20290804005930725
+title: 融券
+annotate-colour: dodgerblue
+elapsed_days: 223.45999153935185
+lapses: 0
+modified: 20251231135656106
+state: 2
+reps: 3
+last_review: 20260812005930725
+stability: 1087.731983592979
+difficulty: 2.31442
+type: text/vnd.tiddlywiki
+created: 20251201115131878
+scheduled_days: 1088
+tags: ?
+
+! ''什么是融券？''
+
+''融券 = 向券商“借股票”，先卖出再买回还给人家。''
+
+你可以把它理解为：
+ 👉 ''借股票 → 卖掉 → 等价格跌了再买回来 → 还回去 → 中间赚差价''
+
+这就叫 ''融券卖出（Sell Short）''，也就是''[[做空]]''的基本方式。

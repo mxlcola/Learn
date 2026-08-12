@@ -1,17 +1,6 @@
-created: 20251112131232357
-modified: 20260812164000000
-tags: 
+created: 20260812092043163
+modified: 20260812092052518
+tags: Index
 title: 牙齿
 
-古人:''万物摄生，莫先固齿''
-
-口腔疾病相关条目：
-
-* [[龋齿]]
-* [[牙周炎]]
-* [[牙髓炎]]
-* [[根尖周炎]]
-* [[烂牙根]]
-* [[残根]]
-* [[牙槽骨]]
-* [[种牙]]
+<$macrocall $name="locator-view" baseTitle=<<currentTiddler>> />

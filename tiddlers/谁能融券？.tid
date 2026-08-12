@@ -1,0 +1,28 @@
+due: 20290804005941053
+title: 谁能融券？
+annotate-colour: dodgerblue
+elapsed_days: 223.45912950231482
+lapses: 0
+modified: 20251213021307882
+state: 2
+reps: 3
+last_review: 20260812005941053
+stability: 1087.7294933551134
+difficulty: 2.31442
+type: text/vnd.tiddlywiki
+created: 20251201115238580
+scheduled_days: 1088
+tags: 融券 量化交易 ?
+
+! ''谁能融券？''
+
+不是每个散户都能融券，因为要求很高：
+
+* 资产门槛
+* 风险评估
+* 操作权限
+* 券源必须够（不然借不到）
+
+所以散户一般融券难度大。
+
+但 ''量化机构'' 因为规模大、权限高、速度快，所以能频繁融券套利。

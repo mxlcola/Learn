@@ -1,0 +1,24 @@
+due: 20290904072807742
+title: 为什么散户打板常被量化用融券收割？
+annotate-colour: dodgerblue
+elapsed_days: 241.21919266203705
+lapses: 0
+modified: 20251213021216764
+state: 2
+reps: 3
+last_review: 20260811072807742
+stability: 1120.4000248186287
+difficulty: 2.31442
+type: text/vnd.tiddlywiki
+created: 20251201115333757
+scheduled_days: 1120
+tags: 量化交易 ?
+
+! 📘 ''为什么散户打板常被量化用[[融券]]“收割”？''
+
+因为散户涨停当天买入无法卖出，而量化可以：
+
+* 涨停时''借券 → 卖出给散户''
+* 第二天''再买回还券 → 下砸股价''
+
+散户就容易站岗。
