@@ -1,0 +1,14 @@
+created: 20260812173006218
+modified: 20260812173511494
+tags: AI 知识管理 笔记软件
+title: NotebookLM
+type: text/vnd.tiddlywiki
+
+NotebookLM 是以资料理解和知识库问答为核心的 AI 产品形态。
+
+它代表“资料库 + AI 助手”的方向：上传资料，提问、总结、生成内容，并尽量追溯来源。
+
+关联：
+[[AI知识库]]
+[[新一代AI知识库产品]]
+[[知识库向量索引]]

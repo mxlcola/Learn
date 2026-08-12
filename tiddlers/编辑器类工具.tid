@@ -1,0 +1,15 @@
+created: 20260812173006218
+modified: 20260812173511494
+tags: 笔记软件 写作工具
+title: 编辑器类工具
+type: text/vnd.tiddlywiki
+
+编辑器类工具，核心是写作、修改和保存文本。
+
+代表：VS Code、[[Typora]]。
+
+适合写文章和编辑 Markdown；不负责完整知识库管理。
+
+关联：
+[[笔记工具的两种类型]]
+[[Markdown与AI知识管理]]
