@@ -1,15 +1,17 @@
 tags: tiddlywiki
 created: 20260811074006471
 type: text/vnd.tiddlywiki
-modified: 20260812173511494
+modified: 20260812174149844
 title: Notion、Obsidian 还是它？
 
-三种笔记路线的简化对比：
+这个条目可以看作是在 [[Notion]]、[[Obsidian]] 之外，重新理解 TiddlyWiki 的位置。它不是最流行的笔记软件，但很适合“自有、可改、条目化”的个人知识库。
 
-# [[Notion]]：云端协作强，像租房。
-# [[Obsidian]]：本地 Markdown 强，像自有资料库。
-# [[tiddlywiki特色]]：单文件 Wiki 式知识基地，结构高度自定义。
+!! 三种取向
+# Notion：云端协作强，适合团队和公开分享。
+# Obsidian：本地 Markdown 强，适合个人长期沉淀。
+# TiddlyWiki：条目化和自定义强，适合把知识拆成可链接的小卡片。
 
-关联：
-[[笔记本地化]]
-[[关于笔记软件的一些思考：从 Markdown 编辑器到 AI 知识库]]
+!! 为什么值得考虑
+TiddlyWiki 的每个 tiddler 都像一个独立知识单元，适合做概念卡、流程卡、资料摘录和索引页。它的学习曲线不低，但一旦结构稳定，维护成本很低。
+
+关联：[[tiddlywiki特色]]、[[笔记本地化]]、[[笔记类工具]]

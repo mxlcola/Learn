@@ -1,13 +1,18 @@
 created: 20260812173006218
-modified: 20260812173511494
+modified: 20260812174149844
 tags: 笔记软件 Markdown 写作工具
 title: Typora
 type: text/vnd.tiddlywiki
 
-Typora 是 Markdown 编辑器，重点是写作体验。
+Typora 是一个偏写作体验的 Markdown 编辑器。它不像 Notion 或 Obsidian 那样强调知识系统，而是把“写一篇 Markdown”这件事做得很顺。
 
-它像一支好用的笔，不是完整知识库系统。
+!! 优点
+# 所见即所得，Markdown 语法不会打断阅读。
+# 界面干净，适合写文章、整理草稿、编辑单个文件。
+# 文件就是普通 Markdown，迁移和 AI 读取都比较方便。
+# 学习成本比许多知识管理工具低。
 
-关联：
-[[编辑器类工具]]
-[[Markdown与AI知识管理]]
+!! 边界
+Typora 不适合承担复杂知识库：没有强双链、数据库、协作、自动汇总等能力。它更像写作工作台，可以和[[Obsidian]]、[[tiddlywiki特色]]这类知识库工具配合使用。
+
+关联：[[编辑器类工具]]、[[Markdown与AI知识管理]]、[[笔记工具的两种类型]]

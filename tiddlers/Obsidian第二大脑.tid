@@ -1,14 +1,18 @@
 created: 20260812172507873
-modified: 20260812173511494
+modified: 20260812174149844
 tags: Obsidian 笔记软件 本地笔记
 title: Obsidian第二大脑
 type: text/vnd.tiddlywiki
 
-Obsidian第二大脑，是把 Obsidian 用作个人计划、灵感、复盘、写作和资料整理中心。
+Obsidian 第二大脑，指用 Obsidian 承接灵感、资料、复盘和写作，把零散内容逐步整理成可回顾、可连接的知识系统。
 
-核心不是插件越多越好，而是让长期内容沉淀在本地 Markdown 文件里。
+!! 常见组件
+# Daily Notes：承接当天想法、计划和复盘。
+# Templates / Templater：降低重复记录成本，让记录更有仪式感。
+# Dataview：把分散笔记按标签、字段、时间自动汇总。
+# 双链：把概念、项目、人物、问题连接起来。
 
-关联：
-[[Obsidian]]
-[[Markdown与AI知识管理]]
-[[本地笔记长期主义]]
+!! 关键提醒
+第二大脑不是插件堆砌，而是稳定的输入、整理和输出流程。[[Obsidian]]只提供环境，真正产生价值的是持续记录和定期回顾。
+
+关联：[[Markdown与AI知识管理]]、[[笔记本地化]]、[[知识库输入入口]]
