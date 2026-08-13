@@ -1,7 +1,19 @@
+annotate-colour: dodgerblue
 created: 20260813172050000
-modified: 20260813172050000
+creator: 老乐
+difficulty: 3.9899999999999998
+due: 20260819141039474
+elapsed_days: 0
+lapses: 0
+last_review: 20260813141039474
+modified: 20260813141016826
+modifier: 老乐
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ? Git 知识管理 本地笔记
-title: 笔记提交节奏
+title: 笔记提交节奏-颗粒度
 type: text/vnd.tiddlywiki
 
 笔记提交节奏，是把 Git 提交当成“知识整理的保存点”。不要几个月堆一次，也不要每改一个字就提交一次。

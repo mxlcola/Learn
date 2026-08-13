@@ -1,5 +1,6 @@
 created: 20260813172000000
-modified: 20260813172000000
+modified: 20260813141016831
+modifier: 老乐
 tags: ? TiddlyWiki Git 本地笔记 知识管理
 title: TiddlyWiki笔记Git上传
 type: text/vnd.tiddlywiki
@@ -21,4 +22,5 @@ TiddlyWiki 笔记上传 Git，核心不是“多一份备份”，而是让知�
 [[Git和网盘同步的区别]]
 [[TiddlyWiki图片附件管理]]
 [[笔记隐私仓库]]
-[[笔记提交节奏]]
+[[笔记提交节奏-颗粒度]]
+[[Git私有仓库的4个好处]]

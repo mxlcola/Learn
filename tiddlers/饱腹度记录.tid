@@ -1,15 +1,15 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20260812153000000
 difficulty: 4.93
-due: 20260812130216466
-elapsed_days: 0
+due: 20260816140910725
+elapsed_days: 1.0534057986111112
 lapses: 0
-last_review: 20260812125216466
+last_review: 20260813140910725
 modified: 20260812154500000
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: ? 减肥 饮食
 title: 饱腹度记录
 type: 

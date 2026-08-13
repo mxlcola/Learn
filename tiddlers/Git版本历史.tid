@@ -1,5 +1,16 @@
+annotate-colour: dodgerblue
 created: 20260813172010000
-modified: 20260813172010000
+difficulty: 3.9899999999999998
+due: 20260819141022270
+elapsed_days: 0
+lapses: 0
+last_review: 20260813141022270
+modified: 20260813141016830
+modifier: 老乐
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ? Git 版本控制 本地笔记
 title: Git版本历史
 type: text/vnd.tiddlywiki
@@ -17,5 +28,5 @@ Git 版本历史，是把每次整理笔记留下可追踪记录。它解决的�
 
 关联：
 [[TiddlyWiki笔记Git上传]]
-[[笔记提交节奏]]
+[[笔记提交节奏-颗粒度]]
 [[笔记掌控感]]
