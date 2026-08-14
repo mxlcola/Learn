@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 680" role="img" aria-labelledby="title desc">
+  <title id="title">牙齿基础解剖示意图</title>
+  <desc id="desc">展示牙釉质、牙本质、髓腔、根管、牙髓和根尖孔的位置。</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7fbff}.tooth{fill:#fff;stroke:#163f72;stroke-width:6;stroke-linejoin:round}.enamel{fill:#f5fbff;stroke:#8bb9df;stroke-width:4}.dentin{fill:#dceeff;stroke:#4b87be;stroke-width:4}.pulp{fill:#f06a6a;stroke:#a42b2b;stroke-width:4}.canal{fill:#f7a7a7;stroke:#a42b2b;stroke-width:3}.bone{fill:#d7ecff;stroke:#8dbbde;stroke-width:3}.label{font:30px sans-serif;fill:#17324d}.small{font:24px sans-serif;fill:#17324d}.line{stroke:#2463a6;stroke-width:4;fill:none;marker-end:url(#arrow)}.pin{fill:#2463a6}.box{fill:#fff;stroke:#b8d5ed;stroke-width:2;rx:12}.red{fill:#b72222}.blue{fill:#2463a6}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2463a6"/>
+    </marker>
+  </defs>
+  <rect class="bg" width="1000" height="680"/>
+  <text class="label" x="50" y="55">牙齿不是实心硬块：外层硬组织，内部是髓腔和根管</text>
+  <path class="bone" d="M220 458 C300 426,412 430,500 460 C590 430,700 426,780 458 L780 640 L220 640 Z"/>
+  <path class="tooth" d="M412 92 C360 45,276 68,264 154 C250 256,312 325,338 392 C354 434,394 430,404 386 C417 326,438 276,500 276 C562 276,583 326,596 386 C606 430,646 434,662 392 C688 325,750 256,736 154 C724 68,640 45,588 92 C552 125,448 125,412 92 Z"/>
+  <path class="enamel" d="M426 120 C383 82,314 101,305 164 C293 252,348 306,370 370 C381 402,392 395,398 363 C412 288,447 237,500 237 C553 237,588 288,602 363 C608 395,619 402,630 370 C652 306,707 252,695 164 C686 101,617 82,574 120 C542 148,458 148,426 120 Z"/>
+  <path class="dentin" d="M442 158 C409 129,354 144,348 190 C340 256,383 301,400 356 C409 386,419 382,424 352 C434 292,458 248,500 248 C542 248,566 292,576 352 C581 382,591 386,600 356 C617 301,660 256,652 190 C646 144,591 129,558 158 C532 180,468 180,442 158 Z"/>
+  <path class="pulp" d="M470 196 C452 225,454 260,468 298 C478 326,486 356,488 438 L512 438 C514 356,522 326,532 298 C546 260,548 225,530 196 C516 176,484 176,470 196 Z"/>
+  <path class="canal" d="M486 312 C475 360,474 410,482 514 L497 514 C499 410,499 360,494 312 Z"/>
+  <path class="canal" d="M506 312 C501 360,501 410,503 514 L518 514 C526 410,525 360,514 312 Z"/>
+  <circle class="red" cx="500" cy="530" r="8"/>
+
+  <path class="line" d="M765 130 L617 143"/>
+  <rect class="box" x="770" y="101" width="180" height="58"/>
+  <text class="small" x="790" y="139">牙釉质</text>
+  <path class="line" d="M770 215 L610 230"/>
+  <rect class="box" x="775" y="187" width="180" height="58"/>
+  <text class="small" x="795" y="225">牙本质</text>
+  <path class="line" d="M770 306 L536 268"/>
+  <rect class="box" x="775" y="278" width="180" height="58"/>
+  <text class="small" x="795" y="316">髓腔 / 牙髓</text>
+  <path class="line" d="M770 420 L516 410"/>
+  <rect class="box" x="775" y="392" width="180" height="58"/>
+  <text class="small" x="795" y="430">根管</text>
+  <path class="line" d="M770 535 L512 530"/>
+  <rect class="box" x="775" y="507" width="180" height="58"/>
+  <text class="small" x="795" y="545">根尖孔</text>
+
+  <rect class="box" x="48" y="488" width="300" height="112"/>
+  <text class="small" x="72" y="528">牙髓含神经、血管</text>
+  <text class="small" x="72" y="565">发炎肿胀时空间受限</text>
+  <text class="small" x="72" y="602">压力升高会剧烈疼痛</text>
+</svg>
+
