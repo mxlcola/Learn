@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">根管治疗流程示意图</title>
+  <desc id="desc">展示牙齿基础解剖以及根管治疗开髓、清理消毒、充填封闭、修复保护四个步骤。</desc>
+  <defs>
+    <style>
+      .bg{fill:#f7fbff}.panel{fill:#fff;stroke:#2463a6;stroke-width:3;rx:22}.head{fill:#2463a6}.headText{fill:#fff;font:bold 34px sans-serif}.label{font:28px sans-serif;fill:#17324d}.small{font:22px sans-serif;fill:#17324d}.note{font:20px sans-serif;fill:#476070}.tooth{fill:#ffffff;stroke:#173f75;stroke-width:5;stroke-linejoin:round}.dentin{fill:#e9f3ff;stroke:#3b78b8;stroke-width:3}.pulp{fill:#f36c6c;stroke:#a72d2d;stroke-width:3}.canalFill{fill:#f2b84b;stroke:#9a6818;stroke-width:3}.tool{stroke:#52677c;stroke-width:7;stroke-linecap:round}.arrow{stroke:#2463a6;stroke-width:5;fill:none;marker-end:url(#arrow)}.drop{fill:#73c9c6;stroke:#29817d;stroke-width:2}.cap{fill:#d9e5ef;stroke:#52677c;stroke-width:4}.root{fill:none;stroke:#173f75;stroke-width:5;stroke-linecap:round}.bone{fill:#d7ecff;stroke:#83afd7;stroke-width:3}.num{fill:#2463a6}
+    </style>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#2463a6"/>
+    </marker>
+  </defs>
+  <rect class="bg" x="0" y="0" width="1200" height="720"/>
+  <text class="label" x="48" y="56">根管治疗：打开通道、清理感染、消毒根管、严密封闭</text>
+
+  <g transform="translate(40,90)">
+    <rect class="panel" x="0" y="0" width="535" height="270"/>
+    <rect class="head" x="0" y="0" width="78" height="62" rx="18"/>
+    <text class="headText" x="26" y="42">1</text>
+    <text class="label" x="120" y="42">基础解剖</text>
+    <path class="tooth" d="M198 68 C170 42,129 58,123 102 C116 156,151 192,165 230 C171 247,192 246,198 226 C205 199,214 169,230 169 C246 169,255 199,262 226 C268 246,289 247,295 230 C309 192,344 156,337 102 C331 58,290 42,262 68 C244 86,216 86,198 68 Z"/>
+    <path class="dentin" d="M209 94 C195 84,172 96,170 124 C167 160,190 184,198 214 C202 226,212 225,216 211 C222 188,224 151,230 151 C236 151,238 188,244 211 C248 225,258 226,262 214 C270 184,293 160,290 124 C288 96,265 84,251 94 C239 105,221 105,209 94 Z"/>
+    <path class="pulp" d="M222 120 C216 130,213 141,215 154 C219 174,224 190,226 219 L234 219 C236 190,241 174,245 154 C247 141,244 130,238 120 C234 114,226 114,222 120 Z"/>
+    <circle class="pulp" cx="230" cy="229" r="5"/>
+    <line class="arrow" x1="330" y1="93" x2="266" y2="92"/>
+    <text class="small" x="342" y="98">牙釉质 / 牙本质</text>
+    <line class="arrow" x1="330" y1="154" x2="246" y2="154"/>
+    <text class="small" x="342" y="160">牙髓：神经+血管</text>
+    <line class="arrow" x1="330" y1="222" x2="236" y2="226"/>
+    <text class="small" x="342" y="228">根尖孔</text>
+  </g>
+
+  <g transform="translate(625,90)">
+    <rect class="panel" x="0" y="0" width="535" height="270"/>
+    <rect class="head" x="0" y="0" width="78" height="62" rx="18"/>
+    <text class="headText" x="26" y="42">2</text>
+    <text class="label" x="120" y="42">开髓与抽牙神经</text>
+    <path class="tooth" d="M203 70 C175 44,134 60,128 104 C121 158,156 194,170 232 C176 249,197 248,203 228 C210 201,219 171,235 171 C251 171,260 201,267 228 C273 248,294 249,300 232 C314 194,349 158,342 104 C336 60,295 44,267 70 C249 88,221 88,203 70 Z"/>
+    <path class="pulp" d="M226 118 C217 136,219 164,226 190 L226 231 L244 231 L244 190 C251 164,253 136,244 118 C239 108,231 108,226 118 Z"/>
+    <line class="tool" x1="410" y1="74" x2="281" y2="125"/>
+    <path class="tool" d="M278 126 L238 139"/>
+    <path class="arrow" d="M395 173 C350 205,298 210,254 196"/>
+    <text class="small" x="330" y="218">打开髓腔，清除坏死牙髓</text>
+  </g>
+
+  <g transform="translate(40,400)">
+    <rect class="panel" x="0" y="0" width="535" height="270"/>
+    <rect class="head" x="0" y="0" width="78" height="62" rx="18"/>
+    <text class="headText" x="26" y="42">3</text>
+    <text class="label" x="120" y="42">根管预备 + 冲洗消毒</text>
+    <path class="tooth" d="M200 72 C172 46,131 62,125 106 C118 160,153 196,167 234 C173 251,194 250,200 230 C207 203,216 173,232 173 C248 173,257 203,264 230 C270 250,291 251,297 234 C311 196,346 160,339 106 C333 62,292 46,264 72 C246 90,218 90,200 72 Z"/>
+    <path class="root" d="M222 132 C213 163,215 190,224 232"/>
+    <path class="root" d="M242 132 C251 163,249 190,240 232"/>
+    <line class="tool" x1="344" y1="68" x2="236" y2="153"/>
+    <path class="drop" d="M370 112 C386 136,386 158,370 174 C354 158,354 136,370 112 Z"/>
+    <path class="drop" d="M420 132 C433 152,433 170,420 184 C407 170,407 152,420 132 Z"/>
+    <text class="small" x="325" y="218">锉刀修整管壁，冲洗残留细菌</text>
+  </g>
+
+  <g transform="translate(625,400)">
+    <rect class="panel" x="0" y="0" width="535" height="270"/>
+    <rect class="head" x="0" y="0" width="78" height="62" rx="18"/>
+    <text class="headText" x="26" y="42">4</text>
+    <text class="label" x="120" y="42">充填封闭 + 修复保护</text>
+    <path class="tooth" d="M202 72 C174 46,133 62,127 106 C120 160,155 196,169 234 C175 251,196 250,202 230 C209 203,218 173,234 173 C250 173,259 203,266 230 C272 250,293 251,299 234 C313 196,348 160,341 106 C335 62,294 46,266 72 C248 90,220 90,202 72 Z"/>
+    <path class="canalFill" d="M226 120 C219 142,220 171,226 193 L226 232 L242 232 L242 193 C248 171,249 142,242 120 C238 113,230 113,226 120 Z"/>
+    <path class="cap" d="M164 72 C178 28,288 28,304 72 C278 94,191 94,164 72 Z"/>
+    <text class="small" x="330" y="126">牙胶尖 + 封闭剂</text>
+    <line class="arrow" x1="325" y1="136" x2="248" y2="154"/>
+    <text class="small" x="330" y="205">补牙 / 嵌体 / 牙冠保护</text>
+  </g>
+</svg>
+
