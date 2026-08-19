@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20260813172050000
 creator: 老乐
-difficulty: 3.9899999999999998
-due: 20260819141039474
-elapsed_days: 0
+difficulty: 3.148
+due: 20260928013044637
+elapsed_days: 5.472282025462963
 lapses: 0
-last_review: 20260813141039474
+last_review: 20260819013044637
 modified: 20260813141016826
 modifier: 老乐
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 40
+stability: 40.14365058712037
 state: 2
 tags: ? Git 知识管理 本地笔记
 title: 笔记提交节奏-颗粒度

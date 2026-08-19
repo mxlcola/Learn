@@ -1,15 +1,15 @@
 annotate-colour: dodgerblue
 created: 20260813172010000
-difficulty: 3.9899999999999998
-due: 20260819141022270
-elapsed_days: 0
+difficulty: 3.148
+due: 20260928013039421
+elapsed_days: 5.472420729166667
 lapses: 0
-last_review: 20260813141022270
+last_review: 20260819013039421
 modified: 20260813141016830
 modifier: 老乐
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 40
+stability: 40.14447414249558
 state: 2
 tags: ? Git 版本控制 本地笔记
 title: Git版本历史
