@@ -1,0 +1,21 @@
+created: 20260819162000000
+modified: 20260819162000000
+source: 用户提供材料：obsidian+ChatGPT打造第二大脑
+tags: ? Obsidian Anki 笔记插件 复习
+title: Note Synchronizer
+type: text/vnd.tiddlywiki
+
+Note Synchronizer，是 Obsidian 中用于把笔记按模板同步到 Anki 的插件思路。它把“写笔记”和“后续复习”接在同一条流程里。
+
+!! 适合解决的问题
+
+* 用固定模板创建原子笔记。
+* 把关键字段同步成可复习卡片。
+* 减少从笔记软件手动搬运到 Anki 的成本。
+* 让长期记忆动作跟知识整理动作连接起来。
+
+!! 注意边界
+
+不是每条笔记都适合进 Anki。适合复习的是概念、判断、步骤和高频知识点；资料归档、项目记录和长段复盘更适合留在知识库里。
+
+关联：[[原子笔记模板]]、[[永久笔记]]、[[Obsidian第二大脑]]、[[可信任的笔记系统]]
