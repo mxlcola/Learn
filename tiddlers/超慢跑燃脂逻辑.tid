@@ -1,20 +1,22 @@
 annotate-colour: dodgerblue
 created: 20260813142157456
-difficulty: 3.9899999999999998
-due: 20260820005222384
-elapsed_days: 0
+creator: 老乐
+difficulty: 3.148
+due: 20261002005443184
+elapsed_days: 6.00162962962963
 lapses: 0
-last_review: 20260814005222384
-modified: 20260814101500000
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20260820005443184
+modified: 20260820005442838
+modifier: 老乐
+reps: 2
+scheduled_days: 43
+stability: 43.27015965453507
 state: 2
 tags: ? 超慢跑 减脂 运动 能量缺口
 title: 超慢跑燃脂逻辑
-type:
+type: 
 
-超慢跑的燃脂逻辑：强度低到中等，脂肪供能比例更高，也更容易坚持。
+超慢跑的燃脂逻辑：''强度低到中等，脂肪供能比例更高，也更容易坚持。''
 
 !! 要点
 # 低强度有氧更容易动用脂肪。

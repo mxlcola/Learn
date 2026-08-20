@@ -1,14 +1,16 @@
 annotate-colour: dodgerblue
 created: 20260812164000000
-difficulty: 3.9899999999999998
-due: 20260820005026247
-elapsed_days: 0
+creator: 老乐
+difficulty: 3.148
+due: 20261002005346709
+elapsed_days: 6.002320127314815
 lapses: 0
-last_review: 20260814005026247
-modified: 20260814005001018
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20260820005346709
+modified: 20260820005346332
+modifier: 老乐
+reps: 2
+scheduled_days: 43
+stability: 43.27421650698562
 state: 2
 tags: ? 龋齿 牙齿
 title: 残根内部感染
@@ -25,11 +27,4 @@ type:
 
 长期残根内部感染，本质上是一处慢性[[口腔感染源]]。如果牙根没有修复价值，单靠反复消炎通常不能彻底解决病灶。
 
-关联：
-[[烂牙根]]
-[[残根]]
-[[口腔感染源]]
-[[根尖孔]]
-[[根尖病灶]]
-[[残根拔除]]
 
