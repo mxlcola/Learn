@@ -5,7 +5,7 @@ due: 20260821002528161
 elapsed_days: 0
 lapses: 0
 last_review: 20260815002528161
-modified: 20260814101500000
+modified: 20260820121000000
 reps: 1
 scheduled_days: 6
 stability: 5.8
@@ -15,6 +15,8 @@ title: 超慢跑心流模式
 type: text/vnd.tiddlywiki
 
 超慢跑心流模式，是把超慢跑从“打卡任务”变成低压力放松活动。
+
+它也可以理解成“微笑速度”：能说话、能微笑、不酸不痛不硬不喘。
 
 !! 做法
 # 跑时听书、播客或音乐。
@@ -27,5 +29,6 @@ type: text/vnd.tiddlywiki
 关联：
 [[超慢跑]]
 [[超慢跑实操准则]]
+[[谈话测试]]
 [[减肥和运动的关系]]
 [[运动微目标]]
