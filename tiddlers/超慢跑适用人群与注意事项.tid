@@ -1,14 +1,16 @@
 annotate-colour: dodgerblue
 created: 20260812202000000
-difficulty: 3.9899999999999998
-due: 20260820005819692
-elapsed_days: 0
+creator: 老乐
+difficulty: 3.148
+due: 20261005134458338
+elapsed_days: 6.532391736111111
 lapses: 0
-last_review: 20260814005819692
-modified: 20260820120500000
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20260820134458338
+modified: 20260820134457974
+modifier: 老乐
+reps: 2
+scheduled_days: 46
+stability: 46.37216670535842
 state: 2
 tags: ? 运动 身体健康
 title: 超慢跑适用人群与注意事项
@@ -24,10 +26,6 @@ type: text/vnd.tiddlywiki
 # 三高康复、心脏康复期等人群，只能在医生允许的强度内做。
 
 !! 谨慎
-# 发烧、感染等急性期。
-# 未控制的心脑血管问题。
-# 明显关节痛或损伤恢复期。
-# 慢病患者先问医生。
 
 胸闷、心慌、头晕、关节痛、呼吸异常：停止。
 
@@ -35,9 +33,3 @@ type: text/vnd.tiddlywiki
 
 关节冲击理解见[[超慢跑关节压力]]。
 
-关联：
-[[超慢跑]]
-[[超慢跑正确姿势]]
-[[健康优先的减脂底线]]
-[[快走超慢跑慢跑怎么选]]
-[[超慢跑关节压力]]

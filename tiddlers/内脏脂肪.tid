@@ -1,16 +1,16 @@
 annotate-colour: dodgerblue
 created: 20260812202000000
 creator: 老乐
-difficulty: 3.9899999999999998
-due: 20260820005411867
-elapsed_days: 0
+difficulty: 3.148
+due: 20261005134304219
+elapsed_days: 6.533939247685185
 lapses: 0
-last_review: 20260814005411867
-modified: 20260820110000000
+last_review: 20260820134304219
+modified: 20260820134303841
 modifier: 老乐
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 46
+stability: 46.38116335730631
 state: 2
 tags: ? 减肥 减脂 腹型肥胖 身体健康
 title: 内脏脂肪
@@ -31,9 +31,3 @@ type: text/vnd.tiddlywiki
 !! 行动
 体型判断看[[腹型肥胖]]；执行看[[腹型肥胖与运动干预]]。
 
-关联：
-[[腹型肥胖]]
-[[皮下脂肪]]
-[[胰岛素抵抗]]
-[[腹型肥胖与运动干预]]
-[[脂肪组织炎症与衰老]]
