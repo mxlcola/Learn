@@ -1,14 +1,16 @@
 annotate-colour: dodgerblue
 created: 20260814101500000
-difficulty: 3.9899999999999998
-due: 20260821002528161
-elapsed_days: 0
+creator: 老乐
+difficulty: 3.148
+due: 20261003005613479
+elapsed_days: 6.021357858796296
 lapses: 0
-last_review: 20260815002528161
-modified: 20260820121000000
-reps: 1
-scheduled_days: 6
-stability: 5.8
+last_review: 20260821005613479
+modified: 20260821005613171
+modifier: 老乐
+reps: 2
+scheduled_days: 43
+stability: 43.386046174047856
 state: 2
 tags: ? 超慢跑 运动 心理 生活方式
 title: 超慢跑心流模式
@@ -18,17 +20,5 @@ type: text/vnd.tiddlywiki
 
 它也可以理解成“微笑速度”：能说话、能微笑、不酸不痛不硬不喘。
 
-!! 做法
-# 跑时听书、播客或音乐。
-# 选择不容易打断的路线或固定时段。
-# 少盯配速和公里数，多看呼吸、脚步和身体松弛感。
-# 状态好自然延长，状态差就缩短或改走路。
-
 它的价值是降低启动成本，让[[超慢跑黄金时长]]更容易自然发生。
 
-关联：
-[[超慢跑]]
-[[超慢跑实操准则]]
-[[谈话测试]]
-[[减肥和运动的关系]]
-[[运动微目标]]

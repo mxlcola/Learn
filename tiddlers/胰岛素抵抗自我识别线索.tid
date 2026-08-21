@@ -1,22 +1,23 @@
 annotate-colour: dodgerblue
 created: 20260814203000000
-difficulty: 3.9899999999999998
-due: 20260821025336472
-elapsed_days: 0
+creator: 老乐
+difficulty: 3.148
+due: 20261003005643016
+elapsed_days: 5.918825763888889
 lapses: 0
-last_review: 20260815025336472
-modified: 20260819140000000
-reps: 1
-scheduled_days: 6
+last_review: 20260821005643016
+modified: 20260821005642699
+modifier: 老乐
+reps: 2
+scheduled_days: 43
 source: 丁香生活研究
 source-title: 一个阻止你变瘦的原因，很多人都不知道
-stability: 5.8
+stability: 42.783261540746985
 state: 2
 tags: ? 减肥 胰岛素抵抗 自测 身体健康
 title: 胰岛素抵抗自我识别线索
 type: text/vnd.tiddlywiki
 
-胰岛素抵抗不能靠症状自我确诊，但一些身体反馈可以作为提醒信号。它们的价值是提示你需要更稳的减肥策略，必要时做医学检查。
 
 !! 常见线索
 # 腰腹脂肪明显，腰围长期偏高。
@@ -29,10 +30,3 @@ type: text/vnd.tiddlywiki
 !! 不能替代检查
 真正判断胰岛素抵抗，需要结合空腹血糖、空腹胰岛素、糖耐量、糖化血红蛋白、血脂、腰围等指标，并由医生综合评估。
 
-关联：
-[[胰岛素抵抗]]
-[[胰岛素抵抗减肥策略]]
-[[中年腹型肥胖]]
-[[体重和围度变化]]
-[[饮食安全感]]
-[[身体说明书]]

@@ -1,16 +1,18 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20260814095429000
+creator: 老乐
 difficulty: 4.93
-due: 20260820135818399
-elapsed_days: 0
+due: 20260824005347957
+elapsed_days: 0.46214765046296297
 lapses: 0
-last_review: 20260820134818399
-modified: 20260814095429000
-reps: 1
-scheduled_days: 0
+last_review: 20260821005347957
+modified: 20260821005347651
+modifier: 老乐
+reps: 2
+scheduled_days: 3
 source-url: https://mp.weixin.qq.com/s/SxWa-Ukggb_Re4A-ZEvKNQ
 stability: 2.4
-state: 1
+state: 2
 tags: ? 牙齿 牙科 根管治疗
 title: 根管充填
 type: 
@@ -19,12 +21,6 @@ type:
 
 [img[根管治疗-根管充填封闭.jpg]]
 
-它的意义是把根管空间封住，减少口腔细菌再次沿根管进入根尖周组织。根管充填后，还需要补牙、嵌体或牙冠保护剩余牙体。
+它的意义是把根管空间封住，减少口腔细菌再次沿根管进入根尖周组织。根管充填后，还需要补牙、嵌体或[[牙冠]]保护剩余牙体。
 
-关联：
-[[根管治疗]]
-[[根管治疗步骤]]
-[[根尖孔]]
-[[根尖周炎]]
-[[牙冠]]
 

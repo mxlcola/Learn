@@ -1,6 +1,18 @@
+annotate-colour: dodgerblue
 created: 20260814152000000
-modified: 20260819133000000
+creator: 老乐
+difficulty: 3.9899999999999998
+due: 20260827005922700
+elapsed_days: 0
+lapses: 0
+last_review: 20260821005922700
+modified: 20260821005922379
+modifier: 老乐
+reps: 1
+scheduled_days: 6
 source: 用户粘贴内容
+stability: 5.8
+state: 2
 tags: ? 减肥 科学减肥
 title: 科学减肥三体目标
 type: text/vnd.tiddlywiki
@@ -23,13 +35,3 @@ type: text/vnd.tiddlywiki
 
 执行上可以把[[瘦身目标]]改成三列：BMI/体重、体脂率、腰围/腰臀比/照片，而不是只记录体重秤数字。
 
-关联：
-[[冯雪科学减肥16讲]]
-[[BMI]]
-[[体脂率]]
-[[瘦身目标]]
-[[体重和围度变化]]
-[[内脏脂肪]]
-[[皮下脂肪]]
-[[腹型肥胖与运动干预]]
-[[减脂]]
