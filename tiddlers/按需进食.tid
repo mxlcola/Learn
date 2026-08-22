@@ -1,14 +1,16 @@
 annotate-colour: dodgerblue
 created: 20260817160132000
-difficulty: 4.93
-due: 20260822041655751
-elapsed_days: 0.11458892361111112
+creator: 老乐
+difficulty: 4.078599999999999
+due: 20260911021541784
+elapsed_days: 2.9158105787037036
 lapses: 0
-last_review: 20260819041655751
-modified: 20260817174500000
-reps: 2
-scheduled_days: 3
-stability: 2.4
+last_review: 20260822021541784
+modified: 20260822021541437
+modifier: 老乐
+reps: 3
+scheduled_days: 20
+stability: 20.054430643792216
 state: 2
 tags: ? 减肥 减脂 乐天瘦身法 饮食 正念饮食 放弃减肥我瘦了60斤
 title: 按需进食
@@ -24,8 +26,3 @@ type: text/vnd.tiddlywiki
 
 !! 练习入口
 最小动作是[[每天剩一口]]：不需要时剩下一点。进阶动作是[[吃一口不吃完]]和[[饱腹度记录]]，把“停下”训练成可观察能力。
-
-关联：
-[[《放弃减肥，我瘦了60斤》第12章-饮食的断舍离]]
-[[正常饮食逻辑]]
-[[边际递减法则]]

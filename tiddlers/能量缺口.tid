@@ -1,17 +1,17 @@
-annotate-colour: green
+annotate-colour: dodgerblue
 created: 20260812125250583
 creator: 老乐
 difficulty: 4.93
-due: 20260821010549983
-elapsed_days: 0
+due: 20260825021505618
+elapsed_days: 1.055042060185185
 lapses: 0
-last_review: 20260821005549983
-modified: 20260821005549643
+last_review: 20260822021505618
+modified: 20260822021448197
 modifier: 老乐
-reps: 1
-scheduled_days: 0
+reps: 2
+scheduled_days: 3
 stability: 2.4
-state: 1
+state: 2
 tags: ? 减脂
 title: 能量缺口
 type: 
@@ -19,7 +19,7 @@ type:
 能量缺口，是一段时间内身体总消耗大于总吸收。它是体重下降的基础条件，但不是每天都要精确达标的机械公式。
 
 !! 要点
-# 缺口看长期平均，不看某一天的完美数字。
+# 缺口看''长期平''均，不看某一天的完美数字。
 # 身体会通过饥饿感、疲劳、活动量和代谢状态产生[[身体代偿]]。
 # 过大的缺口容易破坏睡眠、训练恢复、情绪和饮食稳定性。
 # 可持续缺口，通常比极端缺口更适合长期减脂。
