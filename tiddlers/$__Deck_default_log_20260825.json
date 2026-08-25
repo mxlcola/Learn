@@ -10,5 +10,7 @@
     "005055646": "{\"rating\":4,\"elapsed_days\":5.971998009259259,\"scheduled_days\":43,\"review\":\"20260825005048188\",\"state\":2}",
     "005119813": "{\"rating\":4,\"elapsed_days\":5.9717946875,\"scheduled_days\":43,\"review\":\"20260825005057169\",\"state\":2}",
     "00512613": "{\"rating\":4,\"elapsed_days\":5.971884768518518,\"scheduled_days\":43,\"review\":\"20260825005121580\",\"state\":2}",
-    "005129789": "{\"rating\":4,\"elapsed_days\":5.967687268518518,\"scheduled_days\":43,\"review\":\"20260825005128210\",\"state\":2}"
+    "005129789": "{\"rating\":4,\"elapsed_days\":5.967687268518518,\"scheduled_days\":43,\"review\":\"20260825005128210\",\"state\":2}",
+    "005601622": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20260825005559663\",\"state\":0}",
+    "005617589": "{\"rating\":4,\"elapsed_days\":2.9451562152777777,\"scheduled_days\":20,\"review\":\"20260825005607113\",\"state\":2}"
 }
