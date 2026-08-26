@@ -1,13 +1,23 @@
+annotate-colour: dodgerblue
 created: 20260814095429000
-modified: 20260814095429000
+creator: 老乐
+difficulty: 3.9899999999999998
+due: 20260901012442122
+elapsed_days: 0
+lapses: 0
+last_review: 20260826012442122
+modified: 20260826012415234
+modifier: 老乐
+reps: 1
+scheduled_days: 6
 source-note: 用户粘贴文本
+stability: 5.8
+state: 2
 tags: ? 牙齿 牙科 根管治疗
 title: 根管治疗为何不一次搞完？
 type: 
 
 根管治疗通常不是“钻开、抽掉、补上”这么简单。它要先清除感染牙髓和坏死物质，再反复冲洗消毒、评估根管预备质量，最后才能严密充填并做修复保护。
-
-[img[根管治疗流程示意图.svg]]
 
 !! 为什么常要分次
 * 感染控制需要时间：根管内细菌和坏死碎屑不一定一次就能清干净。
