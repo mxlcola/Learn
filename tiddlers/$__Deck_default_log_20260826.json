@@ -11,5 +11,10 @@
     "012615532": "{\"rating\":4,\"elapsed_days\":6.991092141203704,\"scheduled_days\":49,\"review\":\"20260826012609631\",\"state\":2}",
     "012620965": "{\"rating\":4,\"elapsed_days\":6.9071844212962965,\"scheduled_days\":49,\"review\":\"20260826012617598\",\"state\":2}",
     "012627612": "{\"rating\":4,\"elapsed_days\":6.024863993055556,\"scheduled_days\":43,\"review\":\"20260826012622699\",\"state\":2}",
-    "012640636": "{\"rating\":4,\"elapsed_days\":5.489388645833333,\"scheduled_days\":40,\"review\":\"20260826012629555\",\"state\":2}"
+    "012640636": "{\"rating\":4,\"elapsed_days\":5.489388645833333,\"scheduled_days\":40,\"review\":\"20260826012629555\",\"state\":2}",
+    "063713827": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20260826063711729\",\"state\":0}",
+    "063741675": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20260826063716517\",\"state\":0}",
+    "06375967": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20260826063744715\",\"state\":0}",
+    "0638064": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20260826063802048\",\"state\":0}",
+    "063823286": "{\"rating\":4,\"elapsed_days\":0,\"scheduled_days\":6,\"review\":\"20260826063811120\",\"state\":0}"
 }
