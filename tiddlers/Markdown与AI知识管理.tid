@@ -1,5 +1,5 @@
 created: 20260812172507873
-modified: 20260812174149844
+modified: 20260827112858181
 tags: AI 笔记软件 Markdown 本地笔记
 title: Markdown与AI知识管理
 type: text/vnd.tiddlywiki
@@ -15,4 +15,4 @@ Markdown 与 AI 知识管理的关系，在于 Markdown 是结构化、轻量、
 !! 注意边界
 Markdown 不是万能格式，复杂表格、数据库、权限和协作不是它的强项。但作为个人知识底座，它足够稳定，特别适合和[[私有化AI知识管理]]结合。
 
-关联：[[笔记本地化]]、[[Obsidian]]、[[AI知识库]]、[[知识库向量索引]]
+关联：[[笔记本地化]]、[[Obsidian]]、[[AI知识库]]、[[知识库向量索引]]、[[AI对嵌入式开发的影响]]
