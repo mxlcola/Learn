@@ -1,10 +1,21 @@
+annotate-colour: dodgerblue
 created: 20260817160000000
-modified: 20260817160000000
+creator: 老乐
+difficulty: 3.9899999999999998
+due: 20260904044540554
+elapsed_days: 0
+lapses: 0
+last_review: 20260829044540554
+modified: 20260829044540144
+modifier: 老乐
+reps: 1
+scheduled_days: 6
+stability: 5.8
+state: 2
 tags: ? 饮食 正念饮食 减肥 记录
 title: 饥饿感觉量尺
 type: text/vnd.tiddlywiki
 
-饥饿感觉量尺，是给饥饿程度打分的工具，用来训练“先感受，再进食”。它不是考试，而是帮助自己重新读懂身体信号。
 
 !! 一个实用版本
 |分数|状态|建议|
