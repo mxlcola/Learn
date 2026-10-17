@@ -1,15 +1,15 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20260814152000000
-difficulty: 3.9899999999999998
-due: 20260826134609180
-elapsed_days: 0
+difficulty: 3.9994
+due: 20270119153742394
+elapsed_days: 57.07746775462963
 lapses: 0
-last_review: 20260820134609180
+last_review: 20261016153742394
 modified: 20260814152000000
-reps: 1
-scheduled_days: 6
+reps: 2
+scheduled_days: 95
 source: 用户粘贴内容
-stability: 5.8
+stability: 95.21176644193568
 state: 2
 tags: ? 减肥 饮食 代餐
 title: 代餐选择
@@ -31,4 +31,4 @@ type: text/vnd.tiddlywiki
 关联：
 [[冯雪科学减肥16讲]]
 [[调整饮食结构]]
-[[减肥中的能量平衡]]
+[[能量缺口]]
