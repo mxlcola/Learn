@@ -1,11 +1,21 @@
+annotate-colour: green
 created: 20260819041905363
 creator: 老乐
-modified: 20260819123000000
+difficulty: 4.93
+due: 20261017131846946
+elapsed_days: 0
+lapses: 0
+last_review: 20261017130846946
+modified: 20261017130846564
 modifier: 老乐
+reps: 1
+scheduled_days: 0
 source-url-1: https://www.chinacdc.cn/ztxm/tzgln/202506/t20250603_307226.html
 source-url-2: https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html
 source-url-3: https://www.cdc.gov/bmi/faq/index.html
 source-url-4: https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
+stability: 2.4
+state: 1
 tags: ? 减肥 体重 健康 医学评估
 title: BMI
 type: text/vnd.tiddlywiki
@@ -21,17 +31,5 @@ BMI = 体重（kg）/身高（m）的平方
 |18.5 至 <24|正常体重|不代表一定健康，也不代表必须继续减重。|
 |24 至 <28|超重|结合腰围、血压、血糖、血脂和生活方式评估风险。|
 |>=28|肥胖|适合进入系统性体重管理，必要时接受医学评估。|
-
-!! 为什么会有两套阈值
-WHO 和 CDC 常用成人界线为 25、30，中国成人常用 24、28。标准因人群和指南而异，应采用本地医疗机构的口径，不要混用。
-
-!! BMI 的局限
-BMI 不能区分脂肪与肌肉，也不能反映脂肪分布；还需结合腰围和代谢健康评估。儿童青少年应使用年龄、性别对应标准；高龄者应结合肌肉量、营养和疾病评估。
-
-!! 实际使用
-# 用稳定的身高和体重计算，并结合腰围、体脂趋势和代谢指标判断是否需要减重。
-# BMI 偏低、体重不明原因下降或合并疾病时，应先咨询专业人员；BMI 数字本身不能决定治疗。
-
-一句话：BMI 适合用来''筛查和定位''，不适合用来''审判身体或单独决定治疗''。
 
 相关：[[医学减肥目标]]、[[科学减肥三体目标]]
