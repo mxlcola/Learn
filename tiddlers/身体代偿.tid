@@ -1,15 +1,15 @@
 annotate-colour: dodgerblue
 created: 20260812194500000
-difficulty: 3.9899999999999998
-due: 20260828021450879
-elapsed_days: 0
+difficulty: 3.148
+due: 20270614011523789
+elapsed_days: 56.95871422453704
 lapses: 0
-last_review: 20260822021450879
-modified: 20261017130959404
+last_review: 20261018011523789
+modified: 20261018011501167
 modifier: 老乐
-reps: 1
-scheduled_days: 6
-stability: 5.8
+reps: 2
+scheduled_days: 239
+stability: 238.87095617361985
 state: 2
 tags: ? 减脂 身体健康
 title: 身体代偿
@@ -28,6 +28,6 @@ type:
 代偿不是身体“背叛你”，而是身体在保护自己。减脂策略如果长期触发强烈代偿，说明方法可能太急、太硬、太不可持续。
 
 关联：
-[[减肥中的能量平衡-要长期]]
+[[减肥中的能量平衡]]
 [[吸收与消耗的对立统一]]
 [[基础代谢]]
