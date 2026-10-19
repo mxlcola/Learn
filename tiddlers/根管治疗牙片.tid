@@ -1,23 +1,22 @@
 annotate-colour: dodgerblue
 created: 20260814095429000
-difficulty: 3.9899999999999998
-due: 20260902021005318
-elapsed_days: 0
+creator: 老乐
+difficulty: 3.148
+due: 20270605011540766
+elapsed_days: 52.962215810185185
 lapses: 0
-last_review: 20260827021005318
-modified: 20260814095429000
-reps: 1
-scheduled_days: 6
+last_review: 20261019011540766
+modified: 20261019011540447
+modifier: 老乐
+reps: 2
+scheduled_days: 229
 source-note: 用户粘贴文本
-stability: 5.8
+stability: 228.68790639122872
 state: 2
 tags: ? 牙齿 牙科 根管治疗 牙片
 title: 根管治疗牙片
 type: 
 
-根管治疗常需要拍多次牙片，因为医生不能只靠肉眼判断根管长度、形态、预备位置和充填质量。
-
-[img[根管治疗流程示意图.svg]]
 
 !! 常见节点
 * 治疗前：了解牙根数量、弯曲程度、根尖病变和整体治疗计划。
