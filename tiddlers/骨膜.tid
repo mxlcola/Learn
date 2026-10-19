@@ -1,14 +1,14 @@
-annotate-colour: dodgerblue
+annotate-colour: green
 created: 20260811103631575
-difficulty: 3.148
-due: 20260930011451966
-elapsed_days: 6.012726574074074
+difficulty: 3.16582
+due: 20270404133650209
+elapsed_days: 62.51525739583333
 lapses: 0
-last_review: 20260818011451966
+last_review: 20261019133650209
 modified: 20260811104415552
-reps: 2
-scheduled_days: 43
-stability: 43.335350329875716
+reps: 3
+scheduled_days: 167
+stability: 166.853203243241
 state: 2
 tags: ? 种牙
 title: 骨膜

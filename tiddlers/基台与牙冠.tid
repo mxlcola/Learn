@@ -1,21 +1,21 @@
 annotate-colour: dodgerblue
 created: 20260811012328233
-difficulty: 4.078599999999999
-due: 20260917060358771
-elapsed_days: 5.012994710648148
+difficulty: 3.2357139999999993
+due: 20270907133130361
+elapsed_days: 63.310782280092596
 lapses: 0
-last_review: 20260817060358771
+last_review: 20261019133130361
 modified: 20260817103000000
-reps: 3
-scheduled_days: 31
-stability: 31.31060854627097
+reps: 4
+scheduled_days: 323
+source-note: 结合 FDA、Cleveland Clinic 等口腔种植公开说明整理
+source-url: https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know
+source-url-2: https://my.clevelandclinic.org/health/treatments/10903-dental-implants
+stability: 322.96246867175637
 state: 2
 tags: 种植体 牙冠 ?
 title: 基台与牙冠
 type: text/vnd.tiddlywiki
-source-note: 结合 FDA、Cleveland Clinic 等口腔种植公开说明整理
-source-url: https://www.fda.gov/medical-devices/dental-devices/dental-implants-what-you-should-know
-source-url-2: https://my.clevelandclinic.org/health/treatments/10903-dental-implants
 
 [[基台]]和[[牙冠]]是种植牙上部修复的两个关键部件：[[种植体]]埋在牙槽骨里承担“人工牙根”的支撑作用，基台负责把种植体和上方修复体连接起来，牙冠则是口腔里看得见、实际参与咀嚼和美观的部分。
 

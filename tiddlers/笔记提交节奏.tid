@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20260813172050000
-difficulty: 3.148
-due: 20261002005118412
-elapsed_days: 6.002343078703704
+difficulty: 2.31442
+due: 20271010133810112
+elapsed_days: 60.53254282407407
 lapses: 0
-last_review: 20260820005118412
+last_review: 20261019133810112
 modified: 20260813172050000
-reps: 2
-scheduled_days: 43
-stability: 43.274351351373916
+reps: 3
+scheduled_days: 356
+stability: 356.26185662521874
 state: 2
 tags: ? Git 知识管理 本地笔记
 title: 笔记提交节奏

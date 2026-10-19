@@ -1,14 +1,14 @@
 annotate-colour: dodgerblue
 created: 20260813172040000
-difficulty: 3.148
-due: 20261002005124077
-elapsed_days: 6.002253553240741
+difficulty: 2.31442
+due: 20271010133817264
+elapsed_days: 60.5325600462963
 lapses: 0
-last_review: 20260820005124077
+last_review: 20261019133817264
 modified: 20260813172040000
-reps: 2
-scheduled_days: 43
-stability: 43.273825369511144
+reps: 3
+scheduled_days: 356
+stability: 356.26164609631076
 state: 2
 tags: ? Git 隐私 本地笔记 数据安全
 title: 笔记隐私仓库
