@@ -1,20 +1,20 @@
 annotate-colour: dodgerblue
 created: 20260812131737900
 creator: 老乐
-difficulty: 3.148
-due: 20261017004949564
-elapsed_days: 7.773342060185185
+difficulty: 2.31442
+due: 20271118084157583
+elapsed_days: 65.32787059027778
 lapses: 0
-last_review: 20260825004949564
+last_review: 20261029084157583
 modified: 20260825004949261
 modifier: 老乐
-reps: 2
-scheduled_days: 53
-stability: 53.498837812212415
+reps: 3
+scheduled_days: 385
+stability: 384.7014863101587
 state: 2
 tags: ? 龋齿
 title: 吃糖频率
-type: 
+type: text/vnd.tiddlywiki
 
 吃糖频率是影响[[龋齿]]的重要因素。龋齿风险不只看糖吃了多少，更看牙齿一天中被糖和酸反复攻击了多少次。
 

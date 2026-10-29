@@ -1,18 +1,18 @@
 annotate-colour: dodgerblue
 created: 20260812202000000
 creator: 老乐
-difficulty: 3.148
-due: 20261005134416029
-elapsed_days: 6.5321170023148145
+difficulty: 2.31442
+due: 20271203015745480
+elapsed_days: 69.5093686574074
 lapses: 0
-last_review: 20260820134416029
+last_review: 20261029015745480
 modified: 20260821143000000
 modifier: 老乐
-reps: 2
-scheduled_days: 46
-stability: 46.37056947724186
+reps: 3
+scheduled_days: 400
+stability: 400.3173417859896
 state: 2
-tags: ? 超慢跑 运动 低强度有氧
+tags: ? 运动
 title: 超慢跑和快走的区别
 type: text/vnd.tiddlywiki
 
@@ -25,5 +25,7 @@ type: text/vnd.tiddlywiki
 
 快走入门门槛较低；超慢跑更接近跑步动作，关节和足底承受的负荷也可能更高。两者没有固定的减脂优劣，关键是适合当前体能、关节状况和恢复能力。
 
-!! 简明解释
+!! 怎么做
 关节不适或刚开始运动时，可先从走路或快走起步。适应后再尝试超慢跑，并依据疼痛和恢复情况调整，选择指南见[[快走超慢跑慢跑怎么选]]。
+
+关联：[[快走超慢跑慢跑怎么选]]

@@ -1,9 +1,19 @@
+annotate-colour: green
 created: 20260814095429000
+difficulty: 4.93
+due: 20261029085216253
+elapsed_days: 0
+lapses: 0
+last_review: 20261029084216253
 modified: 20260814101956000
+reps: 1
+scheduled_days: 0
 source-note: 用户粘贴文本
+stability: 2.4
+state: 1
 tags: ? 牙齿 牙科 根管治疗 牙髓炎
 title: 根管治疗适应证
-type: 
+type: text/vnd.tiddlywiki
 
 根管治疗主要用于牙髓病和根尖周病，尤其是[[牙髓炎]]、[[牙髓坏死]]和各类[[根尖周炎]]。
 

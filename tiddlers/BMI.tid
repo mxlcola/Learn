@@ -1,35 +1,26 @@
 annotate-colour: dodgerblue
 created: 20260819041905363
 creator: 老乐
-difficulty: 4.93
-due: 20261021011441735
-elapsed_days: 0.5041063773148148
-lapses: 0
-last_review: 20261018011441735
 modified: 20261017130846564
 modifier: 老乐
-reps: 2
-scheduled_days: 3
 source-url-1: https://www.chinacdc.cn/ztxm/tzgln/202506/t20250603_307226.html
 source-url-2: https://www.cdc.gov/bmi/adult-calculator/bmi-categories.html
 source-url-3: https://www.cdc.gov/bmi/faq/index.html
 source-url-4: https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight
-stability: 2.4
-state: 2
-tags: ? 减肥 体重 健康 医学评估
+tags: 减肥 体重 健康 医学评估
 title: BMI
 type: text/vnd.tiddlywiki
 
-BMI（体质指数）是用体重和身高计算出来的筛查指标，用来粗略判断体重是否处在过低、正常、超重或肥胖范围。它不是体脂率，也不是疾病诊断。
+!! 一句话概括本卡片知识点
+BMI 用身高和体重筛查体重范围，但不能单独诊断健康或体脂状况。
 
-!! 公式
-BMI = 体重（kg）/身高（m）的平方
+!! 核心知识
+BMI = 体重（kg）/身高（m）的平方。中国成人常用分层：低于 18.5 为体重过低，18.5 至低于 24 为正常，24 至低于 28 为超重，28 及以上为肥胖。
 
-!! 中国成人常用分层
-|BMI（kg/m2）|分类|怎么理解|
-|<18.5|体重过低|不要默认以减重为目标，先看营养、疾病和近期体重变化。|
-|18.5 至 <24|正常体重|不代表一定健康，也不代表必须继续减重。|
-|24 至 <28|超重|结合腰围、血压、血糖、血脂和生活方式评估风险。|
-|>=28|肥胖|适合进入系统性体重管理，必要时接受医学评估。|
+!! 简明解释
+BMI 不能区分脂肪和肌肉，也不显示脂肪分布；儿童青少年和高龄者不能简单套用普通成人标准。应结合腰围和其他健康指标理解。
 
-相关：[[医学减肥目标]]、[[科学减肥三体目标]]
+!! 例子 / 自测问题
+例子：70 kg、1.75 m 的 BMI 约为 22.9。
+
+关联：[[体脂率]]、[[是否需要减重]]
