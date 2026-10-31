@@ -17,6 +17,8 @@ SUMMARY_MAX = 40      # 一句话概括字数上限
 BODY_WARN = 800       # 正文过长，提示拆分
 REL_WARN = 5          # 关联条数预警（不是硬限制）
 LINK_RE = re.compile(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]')
+# [[显示文本|http...]] 是外部链接，不是指向站内条目的双链，不能算断链
+EXT_LINK_RE = re.compile(r'\[\[[^\]|]*\|[^\]]*(?:https?://|www\.)')
 REL_RE = re.compile(r'(?m)^关联[：:]([^\n]*)')
 HEADING_RE = re.compile(r'(?m)^!![^!]')
 
@@ -87,7 +89,8 @@ def check(items, only=None):
         if L > BODY_WARN:
             add(it, '正文过长', '%d 字，考虑拆成多张卡' % L)
 
-        for l in LINK_RE.findall(b):
+        b_no_ext = EXT_LINK_RE.sub('', b)
+        for l in LINK_RE.findall(b_no_ext):
             if l not in titles:
                 add(it, '悬空链接', '指向不存在的条目 [[%s]]' % l)
 
