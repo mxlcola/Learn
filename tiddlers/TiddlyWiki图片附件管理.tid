@@ -4,7 +4,7 @@ tags: ? TiddlyWiki Git 图片管理 知识管理
 title: TiddlyWiki图片附件管理
 type: text/vnd.tiddlywiki
 
-TiddlyWiki 里的图片最好和条目一起被 Git 管理。图片文件、`.meta` 文件、正文里的 `[img[文件名]]` 三者要同时存在，否则很容易出现断图。
+一句话概括：TiddlyWiki 里的图片最好和条目一起被 Git 管理。
 
 !! 原则
 # 图片用语义化命名，不保留随机长链接名。

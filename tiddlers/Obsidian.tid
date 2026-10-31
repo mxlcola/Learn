@@ -4,7 +4,7 @@ tags: 笔记软件 本地笔记
 title: Obsidian
 type: text/vnd.tiddlywiki
 
-Obsidian 是以本地 Markdown 文件为核心的双链笔记工具。它的关键价值不是“界面多漂亮”，而是让笔记以普通文件存在，同时提供链接、标签、插件和图谱等知识管理能力。
+一句话概括：Obsidian 是以本地 Markdown 文件为核心的双链笔记工具。
 
 !! 适合场景
 # 个人知识沉淀：长期积累读书笔记、写作素材、项目复盘。
