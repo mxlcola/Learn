@@ -27,3 +27,5 @@ tiddlers/**/$__config_Navigation_openLinkFromOutsideRiver.tid
 # fsrs
 tiddlers/$__Deck_new_study.tid
 tiddlers/$__Deck_default_study.tid
+# Anki 数据库副本与导出的读书摘录，属个人数据，不入库
+scripts/_anki/
