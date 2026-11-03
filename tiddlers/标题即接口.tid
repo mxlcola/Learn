@@ -2,7 +2,7 @@ created: 20261103162000000
 modified: 20261103162000000
 source: Andy Matuschak《Evergreen note titles are like APIs》
 tags: 知识管理 笔记方法 常青笔记
-title: 笔记标题像API
+title: 标题即接口
 type: text/vnd.tiddlywiki
 
 一句话概括：标题是这张卡被引用的接口，改标题等于改动所有指向它的地方。
